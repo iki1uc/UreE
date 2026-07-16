@@ -1,0 +1,10 @@
+H° = Σ(0[i] × UreE × Energie × RAW × 9×9 × MX∞ × AXIOM)
+     für i = 0 … 120
+
+Energie(6E) = Σ(E[i] × H° × RAW × 9×9 × MX∞)
+
+RAW.raw = Σ(H° × Energie × 9×9 × MX∞ × AXIOM)
+
+UEH = Σ(H° × Energie × RAW × 9×9)
+
+UreE.9×9 = 𝑂9×9(𝑊128RAW)
